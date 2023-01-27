@@ -3,18 +3,38 @@
 # link:
 # description
 pdf:
-  name: 
-  link:
+  name: PDF file format: Basic structure
+  link: https://resources.infosecinstitute.com/topic/pdf-file-format-basic-structure/
+  description:
+pdf:
+  name: Basic Structure of Portable Document Format
+  link: https://medium.com/aia-sg-techblog/basic-structure-of-portable-document-format-pdf-79db682579c9
   description:
 pst:
-  name: 
-  link:
+  name: Windows documentation
+  link: https://interoperability.blob.core.windows.net/files/MS-PST/%5bMS-PST%5d.pdf
   description:
 $I:
-  name: 
-  link:
+  name: Digital Forensics Stream
+  link: https://df-stream.com/2016/04/fun-with-recycle-bin-i-files-windows-10/
   description:
 reg:
   name: 
-  link:
+  link: https://github.com/msuhanov/regf/blob/master/Windows%20registry%20file%20format%20specification.md#examples-of-hives-and-supporting-files
+  description: not tested
+doc:
+  name: Windows documentation
+  link: https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-doc/ccd7b486-7881-484c-a137-51170af7cc22
+  description:
+one:
+  name: Windows documentation
+  link: https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-one/73d22548-a613-4350-8c23-07d15576be50
+  description:
+ppt:
+  name: Windows documentation
+  link: https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-ppt/6be79dde-33c1-4c1b-8ccc-4b2301c08662
+  description:
+xls:
+  name: Windows documentation
+  link: https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-xls/cd03cb5f-ca02-4934-a391-bb674cb8aa06
   description:
